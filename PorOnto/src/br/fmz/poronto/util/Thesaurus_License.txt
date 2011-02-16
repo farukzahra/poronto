@@ -1,0 +1,8 @@
+# OpenThesaurus - Português Thesaurus in text format
+# Automatically generated 2006-08-17 18:41
+# http://openthesauruspt.caixamagica.pt/
+# Copyright (C) 2006 Caixa Mágica <openthesauruspt@caixamagica.pt>
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2 of the License, or (at
+# your option) any later version.

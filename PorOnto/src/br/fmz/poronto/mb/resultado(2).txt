@@ -1,0 +1,157 @@
+paciente	159	6,86	FALSO
+cardiopatia	125	7,33	FALSO
+cardiologia	74	6,86	VERDADEIRO
+diagnóstico	72	7,15	VERDADEIRO
+doença	72	7,33	VERDADEIRO
+Cardiol	71	6,86	FALSO
+pressão	67	7,33	VERDADEIRO
+tratamento	66	6,86	FALSO
+estudo	65	6,99	FALSO
+INR	63	8,94	VERDADEIRO
+cirurgia	59	7,33	VERDADEIRO
+aorta	56	7,33	VERDADEIRO
+Bras	55	6,99	FALSO
+presença	54	7,15	FALSO
+lesão	52	7,15	FALSO
+ventrículo	52	6,99	FALSO
+alteração	50	6,99	FALSO
+Arq	48	6,99	FALSO
+dose	46	7,33	VERDADEIRO
+átrio	45	7,55	FALSO
+fluxo	44	7,84	FALSO
+heart	44	6,86	FALSO
+hipertensão	44	6,99	VERDADEIRO
+uso	43	7,15	FALSO
+volume	42	7,15	FALSO
+artéria	41	7,33	FALSO
+arritmia	40	6,99	FALSO
+atendimento	40	7,33	FALSO
+criança	40	7,84	VERDADEIRO
+risco	40	7,15	VERDADEIRO
+insuficiência	39	6,86	FALSO
+patients	39	6,99	FALSO
+brasileiro	38	7,55	FALSO
+efeito	38	7,33	FALSO
+clínica	37	6,86	FALSO
+sinal	37	7,33	FALSO
+aumento	36	6,99	FALSO
+controlo	36	7,33	FALSO
+método	36	6,99	FALSO
+Med	35	7,15	FALSO
+canal	35	7,33	FALSO
+valor	35	7,55	FALSO
+Coaguchek	34	8,94	FALSO
+medida	34	7,33	FALSO
+valva	34	7,55	FALSO
+fator	33	6,99	FALSO
+hospital	33	6,99	FALSO
+ambulatório	32	7,84	FALSO
+médico	32	7,33	FALSO
+resultado	32	6,99	FALSO
+sangue	32	7,55	VERDADEIRO
+exame	31	6,99	FALSO
+cardiac	30	7,15	FALSO
+malformação	30	8,24	FALSO
+artéria pulmonar	28	7,55	VERDADEIRO
+canal arterial	26	7,84	VERDADEIRO
+cirurgia cardíaca	21	7,84	VERDADEIRO
+insuficiência cardíaca	20	6,99	VERDADEIRO
+pressão arterial	20	7,55	VERDADEIRO
+cardiologia pediátrica	17	7,84	FALSO
+vida fetal	17	8,24	FALSO
+débito cardíaco	16	7,84	VERDADEIRO
+hipertensão pulmonar	16	7,33	VERDADEIRO
+brasileiros de cardiologia	15	8,24	FALSO
+átrio esquerdo	15	7,55	FALSO
+hipertensão arterial	14	7,84	FALSO
+artigo original	12	7,84	FALSO
+cardiopatias congênitas	12	7,55	VERDADEIRO
+ciência cardíaca	12	8,24	FALSO
+hipertensos em tratamento	12	8,94	FALSO
+eco fetal	11	8,94	FALSO
+malformações cardíacas	11	8,94	FALSO
+valores de inr	11	8,94	FALSO
+arritmias ventriculares	10	8,24	FALSO
+disfunção ventricular	10	8,24	VERDADEIRO
+fração de ejeção	10	8,94	FALSO
+jornal de pediatria	10	8,94	FALSO
+mapeamento a cores	10	8,94	FALSO
+ponto de vista	10	7,55	FALSO
+valva pulmonar	10	8,24	VERDADEIRO
+brilação atrial	9	8,94	FALSO
+cardiopatia grave	9	8,24	FALSO
+controle do tempo	9	8,94	FALSO
+excreção urinária	9	8,94	FALSO
+fluxo pulmonar	9	8,24	FALSO
+angina de peito	8	8,24	FALSO
+aorta ascendente	8	8,24	VERDADEIRO
+cidade de ribeirão	8	8,94	FALSO
+doença cardiovascular	8	8,94	FALSO
+fibrilação atrial	8	7,84	VERDADEIRO
+freqüência cardíaca	8	7,55	FALSO
+infarto agudo	8	7,55	FALSO
+período neonatal	8	8,24	FALSO
+unidades de inr	8	8,94	FALSO
+brasileira de cardiologia	7	8,94	FALSO
+cardiopatias complexas	7	7,55	FALSO
+classe funcional	7	8,94	FALSO
+comprometimento funcional	7	8,94	FALSO
+diagnóstico definitivo	7	8,94	FALSO
+lesão cardíaca	7	8,94	FALSO
+lesões cardíacas	7	8,94	VERDADEIRO
+tetralogia de fallot	7	7,84	VERDADEIRO
+via de saída	7	7,84	FALSO
+atividade física	6	8,94	VERDADEIRO
+bloqueio atrioventricular	6	7,84	VERDADEIRO
+cardíacas fetais	6	8,94	FALSO
+cavidade ventricular	6	8,24	FALSO
+comunicação interatrial	6	7,84	VERDADEIRO
+coração esquerdo	6	7,84	FALSO
+doença cardíaca	6	8,24	FALSO
+dor precordial	6	7,84	VERDADEIRO
+ecocardiografia fetal	6	8,94	FALSO
+faculdade de medicina	6	8,24	FALSO
+faixa etária	6	8,24	FALSO
+fatores de risco	6	7,84	VERDADEIRO
+forame oval	6	8,94	VERDADEIRO
+hipoplasia do coração	6	8,24	FALSO
+história familiar	6	7,84	FALSO
+hospital das clínicas	6	7,84	FALSO
+motivos variados	6	8,94	FALSO
+polpa digital	6	8,94	FALSO
+pressão pulmonar	6	8,94	FALSO
+rede pública	6	8,94	FALSO
+saída do vd	6	8,94	FALSO
+septo atrioventricular	6	7,55	FALSO
+ventrículo esquerdo	6	7,84	FALSO
+óxido nítrico	6	8,24	FALSO
+ambulatorial em cardiologia	5	8,94	FALSO
+ambulatório de cardiologia	5	8,24	FALSO
+anomalia de ebstein	5	8,24	VERDADEIRO
+aorta descendente	5	8,94	VERDADEIRO
+cardiopatias fetais	5	8,94	FALSO
+caso cada	5	8,94	FALSO
+centro cirúrgico	5	8,94	FALSO
+diagnóstico pré-natal	5	8,94	VERDADEIRO
+doença arterial	5	8,24	FALSO
+efeitos colaterais	5	8,94	FALSO
+foco pulmonar	5	8,24	FALSO
+iatrogenia em cardiologia	5	8,94	FALSO
+instituto de cardiologia	5	8,24	FALSO
+insuficiência tricúspide	5	7,84	FALSO
+interrupção do arco	5	8,24	FALSO
+manifestações clínicas	5	8,24	VERDADEIRO
+pacientes atendidos	5	8,94	FALSO
+pediátrica na cidade	5	8,94	FALSO
+período de abril	5	8,24	FALSO
+portadores de doença	5	8,24	FALSO
+pressão diastólica	5	8,94	FALSO
+resposta inflamatória	5	8,94	FALSO
+sangue capilar	5	8,94	FALSO
+sinais de hipertensão	5	8,94	FALSO
+sinais de sobrecarga	5	8,94	FALSO
+teste ergométrico	5	8,94	FALSO
+tratamento anti-hipertensivo	5	8,94	FALSO
+tronco da artéria	5	7,84	FALSO
+uso de drogas	5	7,55	FALSO
+valva tricúspide	5	8,94	VERDADEIRO
