@@ -33,28 +33,14 @@ public class ExtractText {
 
 	private static int treeTagger(String txtFile) throws Exception{
 		String txtFileOut = txtFile.contains(".txt") ? txtFile.replace(".txt", "_OUT.txt"): txtFile+"_OUT.txt";
-//		try {
-			String cmd = Configuracao.getInstance().getPropriedade()
-					.getProperty("TREE_TAGGER")
-					+ " -token -lemma "
-					+ Configuracao.getInstance().getPropriedade().getProperty(
-							"PT_PAR") + " " + txtFile + " " + txtFileOut;
-//			String cmd = TREE_TAGGER
-//					+ " -token -lemma "
-//					+ PT_PAR + " " + txtFile + " " + txtFileOut;
-
-			System.out.println(cmd);
-			Process p = Runtime.getRuntime().exec(cmd);
-			return p.waitFor();
-			//return 0;
-//		} catch (IOException e) {
-//			e.printStackTrace();
-//		} 
-//		catch (InterruptedException e) {
-//			// TODO Auto-generated catch block
-//			e.printStackTrace();
-//		}
-//		return -1;
+		String cmd = Configuracao.getInstance().getPropriedade()
+				.getProperty("TREE_TAGGER")
+				+ " -token -lemma "
+				+ Configuracao.getInstance().getPropriedade().getProperty(
+						"PT_PAR") + " \"" + txtFile + "\" \"" + txtFileOut + "\"";
+		System.out.println(cmd);
+		Process p = Runtime.getRuntime().exec(cmd);
+		return p.waitFor();
 	}
 
 	public static void main(String[] args) {
@@ -162,7 +148,7 @@ public class ExtractText {
 			document = PDDocument.load(pdfFile);
 			if (textFile == null && pdfFile.length() > 4) {
 				textFile = pdfFile.substring(0, pdfFile.length() - 7)
-						.replaceAll(" ", "_")
+//						.replaceAll(" ", "_")
 						+ ".txt";
 			}
 
