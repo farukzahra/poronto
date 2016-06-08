@@ -1,0 +1,7 @@
+Como instalar o PorOnto
+Passos:
+
+  # Descompactar o _TreeTagger.zip_ no diretório C:\TreeTagger
+  # Instalar o _Tomcat_ versão 6+
+  # Fazer o deploy do PorOnto.war
+  # Executar a url http://localhost:8080/PorOnto/
